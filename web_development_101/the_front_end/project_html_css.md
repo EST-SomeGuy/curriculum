@@ -1947,7 +1947,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Tomás Guerra's Solution (Easy)](https://github.com/OG-TomasGuerra/google-homepage) - [View in browser](https://og-tomasguerra.github.io/google-homepage/)
 * [FPlue's Solution (Easy)](https://github.com/Fplue/google-homepage) - [View in browser](https://fplue.github.io/google-homepage/)
 * [Barbara Lucas' solution (Easy)](https://github.com/LucasBarbara/google-homepage) - [View in browser](https://lucasbarbara.github.io/google-homepage/) - [(Difficult)](https://github.com/LucasBarbara/google-homepage-h) - [View in browser](https://lucasbarbara.github.io/google-homepage-h/)
-* [Peter Hu's Solution (Easy)](https://github.com/PeterBohai/google-homepage) - [View in browser](https://peterbohai.github.io/google-homepage/)
+* [Peter Hu's Solution (Easy)](https://github.com/PeterBohai/google-homepage) - [View in browser](https://peterbohai.github.io/google-homepage/)     MY SOLUTION IS HERE!!!
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
@@ -1956,4 +1956,4 @@ If you still feel shaky on your understanding of HTML and CSS, that's okay! You 
 
 * If you want to see the art of CSS, check out the [CSS Zen Garden](http://www.csszengarden.com/), which collects submissions that use identical HTML and modify only the CSS but turn out wildly different (and beautiful).
 * Read through [Shay Howe's HTML&CSS Tutorial](http://learn.shayhowe.com/html-css/terminology-syntax-intro).  Lesson 1 gives a solid overview and you can do the whole thing for a more in-depth understanding.
-* Learn more about GitHub using [this tutorial](https://try.github.io) or read more in [this article](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1).
+* Learn more about GitHub using [this tutorial](https://try.github.io) or read more in [this article](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
